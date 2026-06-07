@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMP_AETHERIA.aternos.me",
+    "ip": "smp_aetheria.aternos.me",
     "port": 19663,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
