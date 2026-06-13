@@ -8,7 +8,7 @@
   "server": {
     "ip": "smp_aetheria.aternos.me",
     "port": 19663,
-    "version": "26.1.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
